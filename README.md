@@ -22,11 +22,6 @@ I'm currently looking for opportunities to grow my skills, contribute to real pr
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white)
 
-## 🚀 Projects
-
-- **[Ask For Answers](https://github.com/Theodor-gif/Ask-For-Answers)**: a PERN full-stack app (React, TypeScript, Express, PostgreSQL) where users can register, post questions and comment. [Live demo](https://ask-for-answers.vercel.app)
-- **[Calculator](https://github.com/Theodor-gif/Calculator-project)**: a calculator built with HTML, CSS and JavaScript. [Live demo](https://theodor-gif.github.io/Calculator-project/)
-
 ## 📫 Reach me
 
 [LinkedIn](https://www.linkedin.com/in/theodoros-mitropoulos-a101a8247/) · [Email](mailto:theodor.mitropoulos@yahoo.com)
